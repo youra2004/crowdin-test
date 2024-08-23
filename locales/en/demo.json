@@ -1,0 +1,12 @@
+{
+  "error404": "Page not found",
+  "error500": "Internal server error",
+  "loading": "Loading...",
+  "submitButton": "Submit",
+  "cancelButton": "Cancel",
+  "searchPlaceholder": "Search...",
+  "profile": "Profile",
+  "settings": "Settings",
+  "logout": "Log Out",
+  "languageSelect": "Select Language"
+}
