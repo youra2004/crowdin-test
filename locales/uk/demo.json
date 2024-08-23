@@ -1,0 +1,12 @@
+{
+  "error404": "Сторінка не знайдена",
+  "error500": "Внутрішня помилка сервера",
+  "loading": "Завантажується...",
+  "submitButton": "Ввести",
+  "cancelButton": "Скасувати",
+  "searchPlaceholder": "Пошук...",
+  "profile": "Анкета",
+  "settings": "Налаштування",
+  "logout": "Вийти з системи",
+  "languageSelect": "Оберіть мову"
+}
