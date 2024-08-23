@@ -1,0 +1,12 @@
+{
+  "welcomeMessage": "Welcome to our website!",
+  "loginButton": "Log In",
+  "signupButton": "Sign Up",
+  "contactUs": "Contact Us",
+  "aboutUs": "About Us",
+  "homePage": "Home Page",
+  "services": "Our Services",
+  "portfolio": "Portfolio",
+  "testimonials": "What Our Clients Say",
+  "footerCopyright": "© 2024 Company Name. All rights reserved."
+}

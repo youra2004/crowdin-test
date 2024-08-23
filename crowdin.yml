@@ -1,0 +1,6 @@
+project_id: 709615
+api_token: 73c67aafeffebc67bd2ded23d3efbf1fd91e17c0bcf8c553df67488ae12d93dfe83049a71cf88430
+
+files:
+  - source: locales/en/*.json
+    translation: locales/%two_letters_code%/%original_file_name%
